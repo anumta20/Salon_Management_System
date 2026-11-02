@@ -16,7 +16,7 @@ $allServices = get_services();
             <p>Professional hair, skin and beauty services by expert stylists. Reserve your slot online and skip the wait.</p>
             <a href="services.php" class="btn btn-outline">Explore Services</a>
         </div>
-
+<!-- 
         <div class="book-card" id="book">
             <h2>Book Appointment</h2>
             <form action="booking.php" method="post">
@@ -53,7 +53,7 @@ $allServices = get_services();
 
                 <button type="submit" class="btn btn-primary btn-block">Book Now</button>
             </form>
-        </div>
+        </div> -->
     </div>
 </section>
 
